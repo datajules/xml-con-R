@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search-results xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <opensearch:totalResults>855</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>25</opensearch:itemsPerPage>
+  <opensearch:Query role="request" searchTerms="srcid(&#x9;19900191767&#x9;) or srcid(&#x9;19900191884&#x9;)" startPage="0"/>
+  <link ref="self" href="https://api.elsevier.com/content/search/scopus?start=0&amp;count=25&amp;query=srcid%28%0919900191767%09%29+or+srcid%28%0919900191884%09%29&amp;apiKey=007aed0be0467bfeade123c216443eed" type="application/xml"/>
+  <link ref="first" href="https://api.elsevier.com/content/search/scopus?start=0&amp;count=25&amp;query=srcid%28%0919900191767%09%29+or+srcid%28%0919900191884%09%29&amp;apiKey=007aed0be0467bfeade123c216443eed" type="application/xml"/>
+  <link ref="next" href="https://api.elsevier.com/content/search/scopus?start=25&amp;count=25&amp;query=srcid%28%0919900191767%09%29+or+srcid%28%0919900191884%09%29&amp;apiKey=007aed0be0467bfeade123c216443eed" type="application/xml"/>
+  <link ref="last" href="https://api.elsevier.com/content/search/scopus?start=830&amp;count=25&amp;query=srcid%28%0919900191767%09%29+or+srcid%28%0919900191884%09%29&amp;apiKey=007aed0be0467bfeade123c216443eed" type="application/xml"/>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85073262056"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85073262056?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85073262056&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85073262056&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85073262056</prism:url>
+    <dc:identifier>SCOPUS_ID:85073262056</dc:identifier>
+    <eid>2-s2.0-85073262056</eid>
+    <dc:title>Peer effects in legislative voting</dc:title>
+    <dc:creator>Harmon N.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>4</prism:issueIdentifier>
+    <prism:pageRange>156-180</prism:pageRange>
+    <prism:coverDate>2019-10-01</prism:coverDate>
+    <prism:coverDisplayDate>1 October 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20180286</prism:doi>
+    <citedby-count>1</citedby-count>
+    <affiliation>
+      <affilname>Københavns Universitet</affilname>
+      <affiliation-city>Copenhagen</affiliation-city>
+      <affiliation-country>Denmark</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>0</openaccess>
+    <openaccessFlag>false</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85073252607"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85073252607?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85073252607&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85073252607&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85073252607</prism:url>
+    <dc:identifier>SCOPUS_ID:85073252607</dc:identifier>
+    <eid>2-s2.0-85073252607</eid>
+    <dc:title>Regulating markups in US health insurance</dc:title>
+    <dc:creator>Cicala S.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>4</prism:issueIdentifier>
+    <prism:pageRange>71-104</prism:pageRange>
+    <prism:coverDate>2019-10-01</prism:coverDate>
+    <prism:coverDisplayDate>1 October 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20180011</prism:doi>
+    <citedby-count>1</citedby-count>
+    <affiliation>
+      <affilname>The University of Chicago</affilname>
+      <affiliation-city>Chicago</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <affiliation>
+      <affilname>National Bureau of Economic Research</affilname>
+      <affiliation-city>Cambridge</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>1</openaccess>
+    <openaccessFlag>true</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85073247547"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85073247547?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85073247547&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85073247547&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85073247547</prism:url>
+    <dc:identifier>SCOPUS_ID:85073247547</dc:identifier>
+    <eid>2-s2.0-85073247547</eid>
+    <dc:title>There is no free house: Ethnic patronage in a Kenyan slum</dc:title>
+    <dc:creator>Marx B.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>4</prism:issueIdentifier>
+    <prism:pageRange>36-70</prism:pageRange>
+    <prism:coverDate>2019-10-01</prism:coverDate>
+    <prism:coverDisplayDate>1 October 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20160484</prism:doi>
+    <citedby-count>1</citedby-count>
+    <affiliation>
+      <affilname>SciencesPo</affilname>
+      <affiliation-city>Paris</affiliation-city>
+      <affiliation-country>France</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>0</openaccess>
+    <openaccessFlag>false</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85073244754"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85073244754?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85073244754&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85073244754&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85073244754</prism:url>
+    <dc:identifier>SCOPUS_ID:85073244754</dc:identifier>
+    <eid>2-s2.0-85073244754</eid>
+    <dc:title>Leader selection and service delivery in community groups: Experimental evidence from Uganda</dc:title>
+    <dc:creator>Deserranno E.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>4</prism:issueIdentifier>
+    <prism:pageRange>240-267</prism:pageRange>
+    <prism:coverDate>2019-10-01</prism:coverDate>
+    <prism:coverDisplayDate>1 October 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20180248</prism:doi>
+    <citedby-count>1</citedby-count>
+    <affiliation>
+      <affilname>Northwestern University</affilname>
+      <affiliation-city>Evanston</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>0</openaccess>
+    <openaccessFlag>false</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85073239549"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85073239549?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85073239549&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85073239549&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85073239549</prism:url>
+    <dc:identifier>SCOPUS_ID:85073239549</dc:identifier>
+    <eid>2-s2.0-85073239549</eid>
+    <dc:title>The local economic and welfare consequences of hydraulic fracturing</dc:title>
+    <dc:creator>Bartik A.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>4</prism:issueIdentifier>
+    <prism:pageRange>105-155</prism:pageRange>
+    <prism:coverDate>2019-10-01</prism:coverDate>
+    <prism:coverDisplayDate>1 October 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20170487</prism:doi>
+    <citedby-count>1</citedby-count>
+    <affiliation>
+      <affilname>University of Illinois at Urbana-Champaign</affilname>
+      <affiliation-city>Urbana</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>1</openaccess>
+    <openaccessFlag>true</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85073235719"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85073235719?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85073235719&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85073235719&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85073235719</prism:url>
+    <dc:identifier>SCOPUS_ID:85073235719</dc:identifier>
+    <eid>2-s2.0-85073235719</eid>
+    <dc:title>Minimum wages and the distribution of family incomes</dc:title>
+    <dc:creator>Dube A.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>4</prism:issueIdentifier>
+    <prism:pageRange>268-304</prism:pageRange>
+    <prism:coverDate>2019-10-01</prism:coverDate>
+    <prism:coverDisplayDate>1 October 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20170085</prism:doi>
+    <citedby-count>1</citedby-count>
+    <affiliation>
+      <affilname>National Bureau of Economic Research</affilname>
+      <affiliation-city>Cambridge</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <affiliation>
+      <affilname>University of Massachusetts Amherst</affilname>
+      <affiliation-city>Amherst MA</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>1</openaccess>
+    <openaccessFlag>true</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85073221079"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85073221079?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85073221079&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85073221079&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85073221079</prism:url>
+    <dc:identifier>SCOPUS_ID:85073221079</dc:identifier>
+    <eid>2-s2.0-85073221079</eid>
+    <dc:title>Allocating scarce organs: How a change in supply affects transplant waiting lists and transplant recipients</dc:title>
+    <dc:creator>Dickert-Conlin S.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>4</prism:issueIdentifier>
+    <prism:pageRange>210-239</prism:pageRange>
+    <prism:coverDate>2019-10-01</prism:coverDate>
+    <prism:coverDisplayDate>1 October 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20170476</prism:doi>
+    <citedby-count>0</citedby-count>
+    <affiliation>
+      <affilname>Michigan State University</affilname>
+      <affiliation-city>East Lansing</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>0</openaccess>
+    <openaccessFlag>false</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85073219689"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85073219689?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85073219689&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85073219689&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85073219689</prism:url>
+    <dc:identifier>SCOPUS_ID:85073219689</dc:identifier>
+    <eid>2-s2.0-85073219689</eid>
+    <dc:title>Pass-through as a test for market power: An application to solar subsidies</dc:title>
+    <dc:creator>Pless J.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>4</prism:issueIdentifier>
+    <prism:pageRange>367-401</prism:pageRange>
+    <prism:coverDate>2019-10-01</prism:coverDate>
+    <prism:coverDisplayDate>1 October 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20170611</prism:doi>
+    <citedby-count>1</citedby-count>
+    <affiliation>
+      <affilname>MIT Sloan School of Management</affilname>
+      <affiliation-city>Cambridge</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>0</openaccess>
+    <openaccessFlag>false</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85073219479"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85073219479?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85073219479&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85073219479&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85073219479</prism:url>
+    <dc:identifier>SCOPUS_ID:85073219479</dc:identifier>
+    <eid>2-s2.0-85073219479</eid>
+    <dc:title>Trade and income-exploiting time series in geography</dc:title>
+    <dc:creator>Feyrer J.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>4</prism:issueIdentifier>
+    <prism:pageRange>1-35</prism:pageRange>
+    <prism:coverDate>2019-10-01</prism:coverDate>
+    <prism:coverDisplayDate>1 October 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20170616</prism:doi>
+    <citedby-count>1</citedby-count>
+    <affiliation>
+      <affilname>Dartmouth College</affilname>
+      <affiliation-city>Hanover</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>0</openaccess>
+    <openaccessFlag>false</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85073208730"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85073208730?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85073208730&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85073208730&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85073208730</prism:url>
+    <dc:identifier>SCOPUS_ID:85073208730</dc:identifier>
+    <eid>2-s2.0-85073208730</eid>
+    <dc:title>Does cheap talk affect market outcomes? Evidence from eBay</dc:title>
+    <dc:creator>Elfenbein D.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>4</prism:issueIdentifier>
+    <prism:pageRange>305-326</prism:pageRange>
+    <prism:coverDate>2019-10-01</prism:coverDate>
+    <prism:coverDisplayDate>1 October 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20170086</prism:doi>
+    <citedby-count>1</citedby-count>
+    <affiliation>
+      <affilname>Olin Business School</affilname>
+      <affiliation-city>St. Louis</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>0</openaccess>
+    <openaccessFlag>false</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85072691420"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85072691420?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85072691420&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85072691420&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85072691420</prism:url>
+    <dc:identifier>SCOPUS_ID:85072691420</dc:identifier>
+    <eid>2-s2.0-85072691420</eid>
+    <dc:title>High trade costs and their consequences: An estimated dynamic model of african agricultural storage and trade</dc:title>
+    <dc:creator>Porteous O.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>4</prism:issueIdentifier>
+    <prism:pageRange>327-366</prism:pageRange>
+    <prism:coverDate>2019-10-01</prism:coverDate>
+    <prism:coverDisplayDate>1 October 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20170442</prism:doi>
+    <citedby-count>3</citedby-count>
+    <affiliation>
+      <affilname>Middlebury College</affilname>
+      <affiliation-city>Middlebury</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>0</openaccess>
+    <openaccessFlag>false</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85066264022"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85066264022?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85066264022&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85066264022&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85066264022</prism:url>
+    <dc:identifier>SCOPUS_ID:85066264022</dc:identifier>
+    <eid>2-s2.0-85066264022</eid>
+    <dc:title>Children and gender inequality: Evidence from Denmark</dc:title>
+    <dc:creator>Kleven H.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>4</prism:issueIdentifier>
+    <prism:pageRange>181-209</prism:pageRange>
+    <prism:coverDate>2019-10-01</prism:coverDate>
+    <prism:coverDisplayDate>1 October 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20180010</prism:doi>
+    <citedby-count>5</citedby-count>
+    <affiliation>
+      <affilname>Woodrow Wilson School of Public and International Affairs</affilname>
+      <affiliation-city>Princeton</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <affiliation>
+      <affilname>National Bureau of Economic Research</affilname>
+      <affiliation-city>Cambridge</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>1</openaccess>
+    <openaccessFlag>true</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85068194244"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85068194244?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85068194244&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85068194244&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85068194244</prism:url>
+    <dc:identifier>SCOPUS_ID:85068194244</dc:identifier>
+    <eid>2-s2.0-85068194244</eid>
+    <dc:title>ProPelled: The effects of grants on graduation, earnings, and welfare</dc:title>
+    <dc:creator>Denning J.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>3</prism:issueIdentifier>
+    <prism:pageRange>193-224</prism:pageRange>
+    <prism:coverDate>2019-07-01</prism:coverDate>
+    <prism:coverDisplayDate>1 July 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20180100</prism:doi>
+    <citedby-count>3</citedby-count>
+    <affiliation>
+      <affilname>Brigham Young University</affilname>
+      <affiliation-city>Provo</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <affiliation>
+      <affilname>IZA</affilname>
+      <affiliation-city>Durham</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>0</openaccess>
+    <openaccessFlag>false</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85068190079"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85068190079?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85068190079&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85068190079&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85068190079</prism:url>
+    <dc:identifier>SCOPUS_ID:85068190079</dc:identifier>
+    <eid>2-s2.0-85068190079</eid>
+    <dc:title>Family disadvantage and the gender gap in behavioral and educational outcomes</dc:title>
+    <dc:creator>Autor D.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>3</prism:issueIdentifier>
+    <prism:pageRange>338-381</prism:pageRange>
+    <prism:coverDate>2019-07-01</prism:coverDate>
+    <prism:coverDisplayDate>1 July 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20170571</prism:doi>
+    <citedby-count>4</citedby-count>
+    <affiliation>
+      <affilname>Massachusetts Institute of Technology</affilname>
+      <affiliation-city>Cambridge</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <affiliation>
+      <affilname>National Bureau of Economic Research</affilname>
+      <affiliation-city>Cambridge</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>0</openaccess>
+    <openaccessFlag>false</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85068162320"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85068162320?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85068162320&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85068162320&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85068162320</prism:url>
+    <dc:identifier>SCOPUS_ID:85068162320</dc:identifier>
+    <eid>2-s2.0-85068162320</eid>
+    <dc:title>The causes and consequences of test score manipulation: Evidence from the New York regents examinations</dc:title>
+    <dc:creator>Dee T.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>3</prism:issueIdentifier>
+    <prism:pageRange>382-423</prism:pageRange>
+    <prism:coverDate>2019-07-01</prism:coverDate>
+    <prism:coverDisplayDate>1 July 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20170520</prism:doi>
+    <citedby-count>1</citedby-count>
+    <affiliation>
+      <affilname>Stanford Graduate School of Education</affilname>
+      <affiliation-city>Stanford</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <affiliation>
+      <affilname>National Bureau of Economic Research</affilname>
+      <affiliation-city>Cambridge</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>0</openaccess>
+    <openaccessFlag>false</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85068157246"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85068157246?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85068157246&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85068157246&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85068157246</prism:url>
+    <dc:identifier>SCOPUS_ID:85068157246</dc:identifier>
+    <eid>2-s2.0-85068157246</eid>
+    <dc:title>Long-run effects of temporary incentives on medical care productivity</dc:title>
+    <dc:creator>Celhay P.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>3</prism:issueIdentifier>
+    <prism:pageRange>92-127</prism:pageRange>
+    <prism:coverDate>2019-07-01</prism:coverDate>
+    <prism:coverDisplayDate>1 July 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20170128</prism:doi>
+    <citedby-count>1</citedby-count>
+    <affiliation>
+      <affilname>Pontificia Universidad Católica de Chile</affilname>
+      <affiliation-city>Santiago</affiliation-city>
+      <affiliation-country>Chile</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>0</openaccess>
+    <openaccessFlag>false</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85068146600"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85068146600?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85068146600&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85068146600&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85068146600</prism:url>
+    <dc:identifier>SCOPUS_ID:85068146600</dc:identifier>
+    <eid>2-s2.0-85068146600</eid>
+    <dc:title>Reducing child mortality in the last mile: Experimental evidence on community health promoters in Uganda</dc:title>
+    <dc:creator>Nyqvist M.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>3</prism:issueIdentifier>
+    <prism:pageRange>155-192</prism:pageRange>
+    <prism:coverDate>2019-07-01</prism:coverDate>
+    <prism:coverDisplayDate>1 July 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20170201</prism:doi>
+    <citedby-count>2</citedby-count>
+    <affiliation>
+      <affilname>Handelshögskolan i Stockholm</affilname>
+      <affiliation-city>Stockholm</affiliation-city>
+      <affiliation-country>Sweden</affiliation-country>
+    </affiliation>
+    <affiliation>
+      <affilname>CEPR</affilname>
+      <affiliation-city>Los Angeles</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>1</openaccess>
+    <openaccessFlag>true</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85068132524"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85068132524?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85068132524&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85068132524&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85068132524</prism:url>
+    <dc:identifier>SCOPUS_ID:85068132524</dc:identifier>
+    <eid>2-s2.0-85068132524</eid>
+    <dc:title>Socializing at work: Evidence from a field experiment with manufacturing workers</dc:title>
+    <dc:creator>Park S.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>3</prism:issueIdentifier>
+    <prism:pageRange>424-455</prism:pageRange>
+    <prism:coverDate>2019-07-01</prism:coverDate>
+    <prism:coverDisplayDate>1 July 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20160650</prism:doi>
+    <citedby-count>1</citedby-count>
+    <affiliation>
+      <affilname>The University of Hong Kong</affilname>
+      <affiliation-city>Pokfulam</affiliation-city>
+      <affiliation-country>Hong Kong</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>1</openaccess>
+    <openaccessFlag>true</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85068121845"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85068121845?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85068121845&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85068121845&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85068121845</prism:url>
+    <dc:identifier>SCOPUS_ID:85068121845</dc:identifier>
+    <eid>2-s2.0-85068121845</eid>
+    <dc:title>Do 40- year-old facts still matter? Long- run effects of federal oversight under the voting rights act</dc:title>
+    <dc:creator>Ang D.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>3</prism:issueIdentifier>
+    <prism:pageRange>1-53</prism:pageRange>
+    <prism:coverDate>2019-07-01</prism:coverDate>
+    <prism:coverDisplayDate>1 July 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20170572</prism:doi>
+    <citedby-count>1</citedby-count>
+    <affiliation>
+      <affilname>John F. Kennedy School of Government</affilname>
+      <affiliation-city>Cambridge</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>1</openaccess>
+    <openaccessFlag>true</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85068119674"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85068119674?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85068119674&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85068119674&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85068119674</prism:url>
+    <dc:identifier>SCOPUS_ID:85068119674</dc:identifier>
+    <eid>2-s2.0-85068119674</eid>
+    <dc:title>Capital cities, conflict, and misgovernance</dc:title>
+    <dc:creator>Campante F.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>3</prism:issueIdentifier>
+    <prism:pageRange>298-337</prism:pageRange>
+    <prism:coverDate>2019-07-01</prism:coverDate>
+    <prism:coverDisplayDate>1 July 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20170111</prism:doi>
+    <citedby-count>2</citedby-count>
+    <affiliation>
+      <affilname>Johns Hopkins University Washington</affilname>
+      <affiliation-city>Washington, D.C.</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <affiliation>
+      <affilname>National Bureau of Economic Research</affilname>
+      <affiliation-city>Cambridge</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>0</openaccess>
+    <openaccessFlag>false</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85068118460"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85068118460?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85068118460&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85068118460&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85068118460</prism:url>
+    <dc:identifier>SCOPUS_ID:85068118460</dc:identifier>
+    <eid>2-s2.0-85068118460</eid>
+    <dc:title>Medium- and long-term educational consequences of alternative conditional cash transfer designs: Experimental evidence from Colombia</dc:title>
+    <dc:creator>Barrera-Osorio F.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>3</prism:issueIdentifier>
+    <prism:pageRange>54-91</prism:pageRange>
+    <prism:coverDate>2019-07-01</prism:coverDate>
+    <prism:coverDisplayDate>1 July 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20170008</prism:doi>
+    <citedby-count>3</citedby-count>
+    <affiliation>
+      <affilname>Harvard Graduate School of Education</affilname>
+      <affiliation-city>Cambridge</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>0</openaccess>
+    <openaccessFlag>false</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85068110708"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85068110708?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85068110708&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85068110708&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85068110708</prism:url>
+    <dc:identifier>SCOPUS_ID:85068110708</dc:identifier>
+    <eid>2-s2.0-85068110708</eid>
+    <dc:title>Supporting community college students from start to degree completion: Long-term evidence from a randomized trial of CUNY's ASAP</dc:title>
+    <dc:creator>Weiss M.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>3</prism:issueIdentifier>
+    <prism:pageRange>253-297</prism:pageRange>
+    <prism:coverDate>2019-07-01</prism:coverDate>
+    <prism:coverDisplayDate>1 July 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20170430</prism:doi>
+    <citedby-count>1</citedby-count>
+    <affiliation>
+      <affilname>MDRC</affilname>
+      <affiliation-city>New York</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>1</openaccess>
+    <openaccessFlag>true</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85067881520"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85067881520?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85067881520&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85067881520&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85067881520</prism:url>
+    <dc:identifier>SCOPUS_ID:85067881520</dc:identifier>
+    <eid>2-s2.0-85067881520</eid>
+    <dc:title>Does teacher training actually work? Evidence from a large-scale randomized evaluation of a national teacher training program</dc:title>
+    <dc:creator>Loyalka P.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>3</prism:issueIdentifier>
+    <prism:pageRange>128-154</prism:pageRange>
+    <prism:coverDate>2019-07-01</prism:coverDate>
+    <prism:coverDisplayDate>1 July 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20170226</prism:doi>
+    <citedby-count>4</citedby-count>
+    <affiliation>
+      <affilname>Stanford Graduate School of Education</affilname>
+      <affiliation-city>Stanford</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>0</openaccess>
+    <openaccessFlag>false</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85063949789"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85063949789?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85063949789&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85063949789&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85063949789</prism:url>
+    <dc:identifier>SCOPUS_ID:85063949789</dc:identifier>
+    <eid>2-s2.0-85063949789</eid>
+    <dc:title>Do women give up competing more easily? Evidence from the lab and the Dutch Math olympiad</dc:title>
+    <dc:creator>Buser T.</dc:creator>
+    <prism:publicationName>American Economic Journal: Applied Economics</prism:publicationName>
+    <prism:issn>19457782</prism:issn>
+    <prism:eIssn>19457790</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>3</prism:issueIdentifier>
+    <prism:pageRange>225-252</prism:pageRange>
+    <prism:coverDate>2019-07-01</prism:coverDate>
+    <prism:coverDisplayDate>1 July 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/app.20170160</prism:doi>
+    <citedby-count>3</citedby-count>
+    <affiliation>
+      <affilname>Universiteit van Amsterdam</affilname>
+      <affiliation-city>Amsterdam</affiliation-city>
+      <affiliation-country>Netherlands</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191767</source-id>
+    <openaccess>0</openaccess>
+    <openaccessFlag>false</openaccessFlag>
+  </entry>
+  <entry>
+    <link ref="self" href="https://api.elsevier.com/content/abstract/scopus_id/85061939275"/>
+    <link ref="author-affiliation" href="https://api.elsevier.com/content/abstract/scopus_id/85061939275?field=author,affiliation"/>
+    <link ref="scopus" href="https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&amp;scp=85061939275&amp;origin=inward"/>
+    <link ref="scopus-citedby" href="https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&amp;scp=85061939275&amp;origin=inward"/>
+    <prism:url>https://api.elsevier.com/content/abstract/scopus_id/85061939275</prism:url>
+    <dc:identifier>SCOPUS_ID:85061939275</dc:identifier>
+    <eid>2-s2.0-85061939275</eid>
+    <dc:title>Patchwork policies, spillovers, and the search for oil and gas</dc:title>
+    <dc:creator>Lewis E.</dc:creator>
+    <prism:publicationName>American Economic Journal: Economic Policy</prism:publicationName>
+    <prism:issn>19457731</prism:issn>
+    <prism:eIssn>1945774X</prism:eIssn>
+    <prism:volume>11</prism:volume>
+    <prism:issueIdentifier>1</prism:issueIdentifier>
+    <prism:pageRange>380-405</prism:pageRange>
+    <prism:coverDate>2019-02-01</prism:coverDate>
+    <prism:coverDisplayDate>1 February 2019</prism:coverDisplayDate>
+    <prism:doi>10.1257/pol.20160373</prism:doi>
+    <citedby-count>1</citedby-count>
+    <affiliation>
+      <affilname>United States Department of Justice</affilname>
+      <affiliation-city>Washington, D.C.</affiliation-city>
+      <affiliation-country>United States</affiliation-country>
+    </affiliation>
+    <prism:aggregationType>Journal</prism:aggregationType>
+    <subtype>ar</subtype>
+    <subtypeDescription>Article</subtypeDescription>
+    <source-id>19900191884</source-id>
+    <openaccess>0</openaccess>
+    <openaccessFlag>false</openaccessFlag>
+  </entry>
+</search-results>
+Response Code
+200
+Response Headers
+{
+  "content-type": "application/xml;charset=UTF-8"
+}
+Abstract_Retrieval : Abstract Retrieval APIShow/HideList OperationsExpand Operations
+GET /abstract/doi/{doi}Abstract Retrieval API
+GET /abstract/eid/{eid}Abstract Retrieval API
+GET /abstract/pii/{pii}Abstract Retrieval API
+GET /abstract/pubmed_id/{pubmed_id}Abstract Retrieval API
+GET /abstract/pui/{pui}Abstract Retrieval API
+GET /abstract/scopus_id/{scopus_id}Abstract Retrieval API
+Implementation Notes
+Abstract retrieval via Scopus ID exposes interfaces associated with Scopus Abstract API.
+API key in this example was setup with authorized CORS domains.
+
+Response Class (Status 200)
+No response was specified
+
+ModelModel Schema
+[
+  {}
+]
+
+
+Response Content Type 
+Parameters
+Parameter	Value	Description	Parameter Type	Data Type
+scopus_id	
+au-id(57191340778)
+scopus_id value
+
+path	string
+apiKey	
+007aed0be0467bfeade123c216443eed
+Your API key
+
+query	string
+httpAccept	
+Requested content type, overrides HTTP header value
+
+query	string
+insttoken	
+Specification for authorization, institution authtoken
+
+query	string
+access_token	
+Specification for active session, secured authtoken
+
+query	string
+Hide Response
+Curl
+curl -X GET --header 'Accept: text/xml' 'https://api.elsevier.com/content/abstract/scopus_id/au-id(57191340778)?apiKey=007aed0be0467bfeade123c216443eed'
+Request URL
+https://api.elsevier.com/content/abstract/scopus_id/au-id(57191340778)?apiKey=007aed0be0467bfeade123c216443eed
+Response Body
+<service-error><status><statusCode>RESOURCE_NOT_FOUND</statusCode><statusText>The resource specified cannot be found.</statusText></status></service-error>
+Response Code
+404
+Response Headers
+{
+  "content-type": "text/xml;charset=UTF-8"
+}
+Affiliation_Retrieval : Affiliation Retrieval APIShow/HideList OperationsExpand Operations
+Author_Retrieval : Author Retrieval APIShow/HideList OperationsExpand Operations
+GET /author/eid/{eid}Author Retrieval API
+GET /author/author_id/{author_id}Author Retrieval API
+Implementation Notes
+Author retrieval exposes interfaces associated with Scopus Author profile.
+API key in this example was setup with authorized CORS domains.
+
+Response Class (Status 200)
+No response was specified
+
+ModelModel Schema
+{}
+
+
+Response Content Type 
+Parameters
+Parameter	Value	Description	Parameter Type	Data Type
+author_id	
+57191340778
+author_id value
+
+path	string
+apiKey	
+007aed0be0467bfeade123c216443eed
+Your API key
+
+query	string
+httpAccept	
+Requested content type, overrides HTTP header value
+
+query	string
+insttoken	
+Specification for authorization, institution authtoken
+
+query	string
+access_token	
+Specification for active session, secured authtoken
+
+query	string
+Hide Response
+Curl
+curl -X GET --header 'Accept: application/xml' 'https://api.elsevier.com/content/author/author_id/57191340778?apiKey=007aed0be0467bfeade123c216443eed'
+Request URL
+https://api.elsevier.com/content/author/author_id/57191340778?apiKey=007aed0be0467bfeade123c216443eed
+Response Body
+<?xml version="1.0" encoding="UTF-8"?>
+<author-retrieval-response xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:ce="http://www.elsevier.com/xml/ani/common" xmlns:cto="http://www.elsevier.com/xml/cto/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://webservices.elsevier.com/schemas/search/fast/types/v4" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" status="found">
+  <coredata>
+    <prism:url>http://api.elsevier.com/content/author/author_id/57191340778</prism:url>
+    <dc:identifier>AUTHOR_ID:57191340778</dc:identifier>
+    <eid>9-s2.0-57191340778</eid>
+    <document-count>1</document-count>
+    <cited-by-count>0</cited-by-count>
+    <citation-count>0</citation-count>
+    <link href="https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&amp;authorId=57191340778&amp;origin=inward" rel="scopus-author"/>
+    <link href="http://api.elsevier.com/content/author/author_id/57191340778" rel="self"/>
+    <link href="http://api.elsevier.com/content/search/scopus?query=au-id%2857191340778%29" rel="search"/>
+  </coredata>
+  <affiliation-current id="60008088" href="http://api.elsevier.com/content/affiliation/affiliation_id/60008088"/>
+  <affiliation-history>
+    <affiliation id="60008088" href="http://api.elsevier.com/content/affiliation/affiliation_id/60008088"/>
+  </affiliation-history>
+  <subject-areas>
+    <subject-area abbrev="ARTS" code="1202">History</subject-area>
+    <subject-area abbrev="ECON" code="2000">Economics, Econometrics and Finance (all)</subject-area>
+  </subject-areas>
+  <author-profile>
+    <status xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">new</status>
+    <date-created xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" day="04" month="10" year="2016"/>
+  <preferred-name xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" source="internal-ani">      <initials>I.</initials>      <indexed-name>Nunes I.</indexed-name>      <surname>Nunes</surname>      <given-name>Ivanil</given-name>
+    </preferred-name>
+  <classificationgroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">      <classifications type="ASJC">        <classification frequency="1">1202</classification>        <classification frequency="1">2000</classification>      </classifications>
+        </classificationgroup>
+    <publication-range xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" end="2016" start="2016"/>
+      <journal-history xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="author">      <journal type="j">        <sourcetitle>America Latina en la Historia Economica</sourcetitle>        <sourcetitle-abbrev>Am. Lat. Hist. Econ.</sourcetitle-abbrev>        <issn>20073496</issn>      </journal>
+            </journal-history>
+        <affiliation-current xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <affiliation source="internal-ani" affiliation-id="60008088">
+    <ip-doc id="60008088" type="parent" relationship="author">
+  <afnameid>Universidade de Sao Paulo - USP#60008088</afnameid>
+  <afdispname>Universidade de Sao Paulo - USP</afdispname>
+  <manual-curation curated="true">      <date-curation day="16" month="05" timestamp="2019-05-16T07:21:40.420-04:00" year="2019"/>      <curation-source>PARITY</curation-source>      <curation-type>PARITY-16052019042140028</curation-type>
+        </manual-curation>
+    <preferred-name date-locked="2019-05-16T20:23:13.056-04:00" source="corrapi-external">Universidade de Sao Paulo - USP</preferred-name>
+    <sort-name>Sao Paulo, University of</sort-name>
+      <address country="bra">      <address-part>Rua da Reitoria 374 - Butanta - Cidade Universitaria</address-part>      <city>Sao Paulo</city>      <state>SP</state>      <postal-code>05508-220</postal-code>    <country>
+        Brazil</country>
+          </address>
+          <org-domain>usp.br</org-domain>
+          <org-URL>http://www.usp.br</org-URL>
+            </ip-doc>
+              </affiliation>
+                </affiliation-current>
+                <affiliation-history xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <affiliation source="internal-ani" affiliation-id="60008088">
+            <ip-doc id="60008088" type="parent" relationship="author">
+          <afnameid>Universidade de Sao Paulo - USP#60008088</afnameid>
+          <afdispname>Universidade de Sao Paulo - USP</afdispname>
+          <manual-curation curated="true">      <date-curation day="16" month="05" timestamp="2019-05-16T07:21:40.420-04:00" year="2019"/>      <curation-source>PARITY</curation-source>      <curation-type>PARITY-16052019042140028</curation-type>
+                </manual-curation>
+            <preferred-name date-locked="2019-05-16T20:23:13.056-04:00" source="corrapi-external">Universidade de Sao Paulo - USP</preferred-name>
+            <sort-name>Sao Paulo, University of</sort-name>
+              <address country="bra">      <address-part>Rua da Reitoria 374 - Butanta - Cidade Universitaria</address-part>      <city>Sao Paulo</city>      <state>SP</state>      <postal-code>05508-220</postal-code>    <country>
+                Brazil</country>
+                  </address>
+                  <org-domain>usp.br</org-domain>
+                  <org-URL>http://www.usp.br</org-URL>
+                    </ip-doc>
+                      </affiliation>
+                        </affiliation-history>
+                          </author-profile>
+                            </author-retrieval-response>
+Response Code
+200
+Response Headers
+{
+  "content-type": "application/xml;charset=UTF-8",
+  "last-modified": "Thu, 06 Oct 2016 17:12:49 GMT"
+}
+Abstract_Citation_Count : Abstract Citation count APIShow/HideList OperationsExpand Operations
+Citations_Overview : Citations Overview APIShow/HideList OperationsExpand Operations
+Serial_Title : Serial Title APIShow/HideList OperationsExpand Operations
+[ base url: /content , api version: 2.0 ]
+
+
+Go to Elsevier Homepage
+Contact and Support
+Terms and conditions
+Privacy policy
+Copyright © 2019 Elsevier B.V. All rights reserved. Elsevier Developers is a registered trademark of Elsevier B.V.
+We use cookies to help provide and enhance our service and tailor content. By continuing, you agree to the use of cookies.Go to RELX Homepage
